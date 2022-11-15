@@ -2,6 +2,5 @@
 <p align='center'>  </p>
 <p align='center'>  </p>
 
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+!https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomuyeol&show_icons=true&theme=radical)
