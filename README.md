@@ -26,3 +26,7 @@
                         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#363636;" stroke="#none" stroke-width="1">muyeol Seo</text>
                  
             </svg>
+	    
+	    
+	    
+	    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seomuyeol&show_icons=true&theme=radical)
